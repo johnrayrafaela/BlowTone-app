@@ -1,11 +1,11 @@
-#  BlowTone App
+# BlowTone App
 BlowTone Mobile App.
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Free Access
+* Offline Listening
+* Ad-Supported Streaming
+* Music Library
 
 # Course Overview
 * Basic React Native Components
@@ -19,13 +19,23 @@ BlowTone Mobile App.
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/screenshot/onboarding.png">  
+<img src="assets/images/screenshot/onboarding.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/screenshot/signup.png">  
+<img src="assets/images/screenshot/signup.jpg">  
 
 # Sign In Screen
-<img src="assets/images/screenshot/login.png">  
+<img src="assets/images/screenshot/login.jpg">  
 
 # Tabs Screen
-<img src="assets/images/screenshot/tabs.png">  
+<img src="assets/images/screenshot/tab1.jpg">  
+<img src="assets/images/screenshot/tab2.jpg">
+<img src="assets/images/screenshot/tab3.jpg"> 
+<img src="assets/images/screenshot/tab4.jpg">  
+<img src="assets/images/screenshot/tab5.jpg">  
+<img src="assets/images/screenshot/tab6.jpg">
+<img src="assets/images/screenshot/tab7.jpg">  
+
+# Video Screenrecord
+
+<!-- https://youtu.be/vZMhw8G-n7E?si=P7YG-5BHbi8XZ3FI -->

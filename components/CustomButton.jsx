@@ -1,6 +1,7 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 import { TouchableOpacity } from 'react-native'
+import { ActivityIndicator } from 'react-native-web'
 
 const CustomButton = ({title,handlePress, contentContainerStyle,textStyles, isLoading}) => {
   return (
@@ -13,6 +14,13 @@ const CustomButton = ({title,handlePress, contentContainerStyle,textStyles, isLo
         <Text className={`font-bold text-slate-800 ${textStyles}`}>
             {title}
         </Text>
+        { isLoading && (
+          <ActivityIndicator
+            animating={isLoading}
+            color='#fff'
+            size='small'
+          />
+        )}
     </TouchableOpacity>
   )
 }
